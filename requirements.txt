@@ -1,0 +1,7 @@
+langchain
+openai
+PyPDF2
+faiss-cpu
+tiktoken
+langchain_community
+langchain_openai
