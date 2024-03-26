@@ -34,4 +34,4 @@ This project utilizes various libraries and tools to process, analyze, and extra
 
 ## Note
 
-Replace `'your.pdf'` with the path to your target PDF file and `query` with the specific question you want to ask about the document content.
+Replace `'yourpdf.pdf'` with the path to your target PDF file and `query` with the specific question you want to ask about the document content.
