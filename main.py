@@ -10,7 +10,7 @@ import os  # For accessing environment variables
 open_key = os.environ["OPENAI_API_KEY"]
 
 # Opening the PDF file to be processed
-pdf_file = PdfReader('agile-practice-guide-english.pdf')
+pdf_file = PdfReader('your.pdf')
 
 # Initializing a variable to store the extracted text
 raw_text = ''
